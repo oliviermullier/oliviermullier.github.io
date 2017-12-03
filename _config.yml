@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+title: Olivier Mullier
+email: oliviermullier@polytechnique.edu
+#url: "http://oliviermullier.github.io"
+#job.title: "Doctor"
+description: > # this means to ignore newlines until "baseurl:"
+  Postdoctoral fellow at ENSTA Paristech, France
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+github_username:  oliviermullier
+#google_analytics: [Your Google Analytics tracking ID]
+#permalink: /blog/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+#theme: jekyll-theme-dinky
+theme: minima
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-minimal
