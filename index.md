@@ -1,4 +1,17 @@
-## Olivier Mullier's personal webpage
+# Homepage of Olivier Mullier
+
+## Contact
+
+oliviermullier at polytechnique.edu
+
+# Research activities
+
+# Publications
+
+# Talks
+
+# Teaching Activities
+
 
 
 ## Welcome to GitHub Pages
