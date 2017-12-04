@@ -26,13 +26,13 @@ scholar:
   sort_by: year
   order: descending
 
-  source: publications
-  bibliography: publications
+  source: assets/bibliography
+  bibliography: mybiblio
   bibliography_template: bibtemplate
 
   replace_strings: true
 
-  details_dir:    publications
+  details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
 
