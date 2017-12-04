@@ -20,17 +20,21 @@ theme: minima
 #theme: jekyll-theme-minimal
 
 scholar:
-  style: assets/bibliography/mycslfile.csl
+  #style: assets/bibliography/mycslfile.csl
+  style: mla  
   locale: en
 
   sort_by: year
   order: descending
 
-  source: assets/bibliography
-  bibliography: mybiblio
-  bibliography_template: bibtemplate
+  source: ./assets/bibliography
+  bibliography: mybiblio.bib
+  bibliography_template: ""
 
   replace_strings: true
+  join_strings: true
+  
+  use_raw_bibtex_entry: false
 
   details_dir:    bibliography
   details_layout: bibtex.html
