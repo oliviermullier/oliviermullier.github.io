@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](photo.jpg | width=250)
+![](photo.jpg){:height="100px"}
 I am a postdoctoral researcher at ENSTA Paristech in U2IS.
 
 ## Keywords
