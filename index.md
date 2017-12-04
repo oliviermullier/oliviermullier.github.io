@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](photo.jpg =250x)
+![](photo.jpg | width=250)
 I am a postdoctoral researcher at ENSTA Paristech in U2IS.
 
 ## Keywords
