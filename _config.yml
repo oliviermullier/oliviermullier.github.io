@@ -10,6 +10,7 @@ github_username:  oliviermullier
 #permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
+  - jekyll-scholar
 
 # Build settings
 markdown: kramdown
@@ -17,3 +18,22 @@ markdown: kramdown
 theme: minima
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
+
+scholar:
+  style: assets/bibliography/mycslfile.csl
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: publications
+  bibliography: publications
+  bibliography_template: bibtemplate
+
+  replace_strings: true
+
+  details_dir:    publications
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
