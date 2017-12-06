@@ -4,6 +4,6 @@ title: Research Activities
 permalink: /Research/
 ---
 
-Ideo urbs venerabilis post superbas efferatarum gentium cervices oppressas latasque leges fundamenta libertatis et retinacula sempiterna velut frugi parens et prudens et dives Caesaribus tamquam liberis suis regenda patrimonii iura permisit.
-Et quoniam apud eos ut in capite mundi morborum acerbitates celsius dominantur, ad quos vel sedandos omnis professio medendi torpescit, excogitatum est adminiculum sospitale nequi amicum perferentem similia videat, additumque est cautionibus paucis remedium aliud satis validum, ut famulos percontatum missos quem ad modum valeant noti hac aegritudine colligati, non ante recipiant domum quam lavacro purgaverint corpus. ita etiam alienis oculis visa metuitur labes.
-
+My research interest is on validated computation using set-membership framework (interval analysis, affine arithmetic).
+I applied this framework in several domains such as temporal systems (discrete or continuous time) in the context of validated numerical integration of dynamical system and integration of it in numerical constraint programming.
+I work also on the computation of inner-approximation of such systems.
