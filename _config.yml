@@ -1,43 +1,15 @@
 title: Olivier Mullier
 email: oliviermullier@polytechnique.edu
 #url: "http://oliviermullier.github.io"
-#job.title: "Doctor"
-description: > # this means to ignore newlines until "baseurl:"
-  Postdoctoral fellow at ENSTA Paristech, France
-# baseurl: "/" # the subpath of your site, e.g. /blog/
+description: Postdoctoral fellow at ENSTA Paristech, France
 github_username:  oliviermullier
+linkedin_username: olivier-mullier-93854230
 #google_analytics: [Your Google Analytics tracking ID]
 #permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
-  - jekyll-scholar
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-dinky
+
 theme: minima
-#theme: jekyll-theme-cayman
-#theme: jekyll-theme-minimal
-
-scholar:
-  #style: assets/bibliography/mycslfile.csl
-  style: mla  
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: ./assets/bibliography
-  bibliography: mybiblio.bib
-  bibliography_template: ""
-
-  replace_strings: true
-  join_strings: true
-  
-  use_raw_bibtex_entry: false
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
