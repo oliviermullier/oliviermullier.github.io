@@ -2,7 +2,7 @@
 layout: default
 ---
 ![](photo.jpg){:height="100px"}
-I am a postdoctoral researcher at [ENSTA Paristech](https://www.ensta-paristech.fr/en) in [U2IS](http://u2is.ensta-paristech.fr/).
+I am a postdoctoral researcher at [ENSTA Paristech](https://www.ensta-paristech.fr/en) in [U2IS](http://u2is.ensta-paristech.fr/) in the [Semantics of Hybrid System Team](http://perso.ensta-paristech.fr/~chapoutot/ssh-website/).
 
 ## Research Activities
 
