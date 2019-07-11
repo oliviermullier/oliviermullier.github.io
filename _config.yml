@@ -4,7 +4,7 @@ email: oliviermullier@polytechnique.edu
 description: Postdoctoral fellow at ENSTA Paristech, France
 github_username:  oliviermullier
 linkedin_username: olivier-mullier-93854230
-#google_analytics: [Your Google Analytics tracking ID]
+google_analytics: UA-129282000-1
 #permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
