@@ -16,6 +16,10 @@ My work also focus on control systems and hybrid systems.
 
 [HAL Link](http://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Olivier,Mullier&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css)
 
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=36615719500)
+
+[DBLP](https://dblp.uni-trier.de/pers/hd/m/Mullier:Olivier)
+
 ## Curriculum Vitae (July, 2019)
  - [English version](mon_cv_en.pdf)
  - [French version](mon_cv.pdf) 
